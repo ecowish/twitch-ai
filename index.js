@@ -75,4 +75,4 @@ Bot.on('message', chatter => {
                 console.log(res.topScoringIntent.intent + " > " + res.query + "\t무슨 말씀이신가요? 이해하지 못했어요 ㅠㅠ");
         }
     })
-})
+});
