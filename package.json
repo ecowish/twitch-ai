@@ -1,0 +1,25 @@
+{
+  "name": "twitch_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecowish/twitch-ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecowish/twitch-ai/issues"
+  },
+  "homepage": "https://github.com/ecowish/twitch-ai#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "nconf": "^0.10.0",
+    "twitch-bot": "^1.3.5"
+  }
+}
